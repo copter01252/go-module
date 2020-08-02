@@ -1,4 +1,4 @@
-module demo
+module github.com/copter01252/go-module
 
 go 1.14
 

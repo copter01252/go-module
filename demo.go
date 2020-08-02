@@ -1,4 +1,4 @@
-package demo
+package github.com/copter01252/go-module
 
 import "github.com/fatih/color"
 

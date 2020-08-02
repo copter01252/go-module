@@ -1,4 +1,4 @@
-package demo_test
+package github.com/copter01252/go-module_test
 
 import (
 	"demo"
