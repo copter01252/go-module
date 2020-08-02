@@ -1,0 +1,5 @@
+mode: set
+demo/demo.go:4.32,5.15 1 1
+demo/demo.go:8.2,8.18 1 1
+demo/demo.go:5.15,7.3 1 1
+demo/demo.go:11.30,13.2 1 1
